@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PeraProg8
+- 👋 Hi, I’m @proguko
 - 👀 I’m interested in game programming (funny games, of course :D)
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning TypeScript (trying, actually)
 - 💞️ I’m looking to collaborate on nothing, for now (yes, I'm introvert)
 - 📫 How to reach me: https://twitter.com/PProg8
 
